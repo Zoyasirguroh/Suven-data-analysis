@@ -1,0 +1,7 @@
+1> How to drop a row ?
+A> drop() and specify some condition
+or dropna(), how = 'any' | 'all'
+
+2> iqr interquartile range
+
+3> I want to see the matplotlib bar chart in different colours when i plot categorical data.
